@@ -30,12 +30,15 @@
         - There are standards for the format of logs recorded, but the format can be changed in the settings.
         - Log data is mainly used in the form of debugging the web server, data analysis, etc.
         - Format used in the project
+        - Conclusion: Funnel analysis shows that the cart-to-checkout process is the most time consuming.
 
           - IP sessionID User identifier Time of day Request page status code Bytesize
    ```
    1.0.0.1 sessionid user59 [16/Dec/2019:02:00:08] GET /checkout 200 1508
    ```
- 
+   
+
+        - Conclusion: Funnel analysis shows that the cart-to-checkout process is the most time consuming.
  </br>
  </br>
  
