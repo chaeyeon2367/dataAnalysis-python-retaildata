@@ -39,7 +39,7 @@
  </br>
    - Conclusion: Funnel analysis shows that the cart-to-checkout payment process is the most time consuming.
    
-   
+   </br> 
    
    <img width="1018" alt="Capture d’écran 2023-03-23 à 20 20 01" src="https://user-images.githubusercontent.com/63314860/227325509-04239aee-fe1f-4c48-89fb-ee8aa5023bb1.png">
    
