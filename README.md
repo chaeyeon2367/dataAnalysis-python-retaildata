@@ -19,6 +19,10 @@
    - Analyze customer retention
  3. make a decision to run a push notification
  
+   - Personalized push notification
+       - Starting with Amazon, the trend is to personalize and find the best solution for each user.
+        - Different users may have different spending patterns, so find out when they buy the most and send them coupons during those times
+ 
  </br>
  
  
